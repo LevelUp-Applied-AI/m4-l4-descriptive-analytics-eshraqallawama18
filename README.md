@@ -6,7 +6,7 @@ Conduct a systematic exploratory data analysis on a university student performan
 ## Setup
 
 ```bash
-pip install -r requirements.txt
+pip install -    r requirements.txt
 ```
 
 ## Dataset
