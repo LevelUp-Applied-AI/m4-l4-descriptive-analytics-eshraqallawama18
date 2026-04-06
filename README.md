@@ -6,10 +6,10 @@ Conduct a systematic exploratory data analysis on a university student performan
 ## Setup
 
 ```bash
-pip install -    r requirements.txt
+pip install -       r requirements.txt
 ```
 
-## Dataset
+## Dataset 
 
 `data/student_performance.csv` contains ~2,000 student records with columns:
 - `student_id`, `department`, `semester`, `course_load`, `study_hours_weekly`
